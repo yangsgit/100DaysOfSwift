@@ -3,7 +3,7 @@ import UIKit
 var str = "Hello, playground"
 
 var a = 1
-//a = "1" X the type deponeds on first time initialization
+//a = "1" error the type deponeds on first time initialization
 
 var t = (1, "1", true)
 t = (2, "2", false)
